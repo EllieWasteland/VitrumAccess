@@ -1,6 +1,102 @@
 const legalTexts = {
-    termsAndConditions: `<h3>1. Aceptación de los Términos</h3><p>Al acceder y utilizar Vitrum.Space (el "Servicio"), usted acepta y se compromete a cumplir con estos términos y condiciones de uso ("Términos"). Si no está de acuerdo con estos Términos, no debe acceder ni utilizar el Servicio.</p><h3>2. Descripción del Servicio</h3><p>Vitrum.Space proporciona un ticket de acceso universal para estudiantes, que sirve como un identificador digital para acceder a un ecosistema de beneficios y servicios dentro de la comunidad educativa.</p><h3>3. Uso Aceptable</h3><p>Usted se compromete a no utilizar el Servicio para ningún propósito ilegal o no autorizado. Acepta cumplir con todas las leyes, normas y reglamentos locales, estatales, nacionales e internacionales aplicables a su uso del Servicio.</p><p>El contenido de este documento es un marcador de posición y debe ser reemplazado por los términos y condiciones oficiales de la aplicación.</p>`,
-    privacyPolicy: `<h3>1. Información que Recopilamos</h3><p>Recopilamos información que usted nos proporciona directamente, como su nombre, correo electrónico institucional, carrera, ciclo y modalidad de estudio. Esta información es necesaria para crear y gestionar su ticket de acceso universal.</p><h3>2. Cómo Utilizamos su Información</h3><p>Utilizamos la información recopilada para:</p><ul><li>Crear y personalizar su identificador digital.</li><li>Proporcionar y mejorar nuestros servicios.</li><li>Comunicarnos con usted sobre actualizaciones y noticias relevantes.</li></ul><h3>3. Seguridad de los Datos</h3><p>Tomamos medidas razonables para proteger la información que nos proporciona contra pérdida, robo, uso indebido y acceso no autorizado. Sin embargo, ningún sistema de seguridad es impenetrable y no podemos garantizar la seguridad absoluta de su información.</p><p>Esta es una política de privacidad de ejemplo y debe ser revisada y adaptada por un profesional legal.</p>`
+    termsAndConditions: `<h3>1. Aceptación de los Términos</h3><p><strong>Última actualización:</strong> 25 de octubre de 2025</p>
+
+    <p>Bienvenido/a a VitrumSpaces ("la Aplicación", "el Software", "el Servicio"), desarrollado por VitrumStudios ("nosotros", "nuestro"). Estos Términos y Condiciones ("Términos") rigen su acceso y uso de nuestra aplicación web y servicios asociados.</p>
+
+    <p>Al acceder o utilizar la Aplicación, usted ("el Usuario") acepta estar sujeto a estos Términos. Si no está de acuerdo con alguna parte de los términos, no podrá acceder al Servicio.</p>
+
+    <h3>1. Cuentas de Usuario y Recopilación de Datos</h3>
+
+    <p>Para utilizar ciertas funciones de la Aplicación, es posible que deba registrarse para obtener una cuenta. Al hacerlo, usted acepta proporcionar información veraz, actual y completa.</p>
+
+    <p>Usted entiende y acepta que VitrumStudios recopilará y utilizará cierta información para el funcionamiento del Servicio, que incluye, entre otros:</p>
+    <ul>
+        <li><strong>Información de Identificación:</strong> Su nombre y dirección de correo electrónico.</li>
+        <li><strong>Información Académica Básica:</strong> Información relacionada con su institución educativa y nivel escolar (por ejemplo, universidad, carrera o horario).</li>
+    </ul>
+
+    <p>Esta información se utiliza únicamente para proporcionar y mejorar las funcionalidades de la Aplicación, como la sincronización de horarios (Smart Time), el acceso unificado (Fast Access) y la personalización de la interfaz de usuario. Nos comprometemos a gestionar sus datos de acuerdo con nuestra Política de Privacidad.</p>
+
+    <h3>2. Licencia de Uso</h3>
+    <p>VitrumStudios le otorga una licencia limitada, no exclusiva, intransferible y revocable para usar la Aplicación estrictamente para fines personales y no comerciales, de acuerdo con estos Términos.</p>
+
+    <h3>3. Propiedad Intelectual</h3>
+    <p>Todos los derechos, títulos e intereses sobre la Aplicación (incluyendo, sin limitación, todo el código fuente y objeto, la interfaz de usuario, los diseños, logotipos, gráficos, imágenes, "look and feel", y cualquier documentación asociada) son y seguirán siendo propiedad exclusiva de VitrumStudios y sus licenciantes.</p>
+    <p>El nombre "VitrumStudios", "VitrumSpaces" y todos los gráficos y logotipos relacionados son marcas comerciales de VitrumStudios. No se le concede ningún derecho o licencia con respecto a dichas marcas comerciales.</p>
+
+    <h3>4. Restricciones de Uso</h3>
+    <p>Usted acepta no hacer, ni intentar hacer, lo siguiente:</p>
+    <ul>
+        <li><strong>Prohibición de Replicación:</strong> Modificar, copiar, duplicar, crear trabajos derivados, realizar ingeniería inversa, descompilar, desensamblar o intentar descubrir de cualquier otro modo el código fuente de la Aplicación o cualquier parte de la misma.</li>
+        <li><strong>Uso Comercial:</strong> Vender, revender, alquilar, arrendar o explotar comercialmente cualquier parte del Servicio.</li>
+        <li><strong>Uso Indebido:</strong> Usar la Aplicación para cualquier propósito ilegal, fraudulento o no autorizado, o de cualquier manera que pueda dañar, deshabilitar o sobrecargar nuestros servidores o redes.</li>
+    </ul>
+
+    <h3>5. Derechos de Imagen y Contenido del Usuario</h3>
+    <p>Si la Aplicación le permite cargar o enviar contenido (como imágenes de perfil o fondos de pantalla), usted conserva todos los derechos sobre dicho contenido. Sin embargo, nos concede una licencia mundial, no exclusiva y libre de regalías para usar, alojar, almacenar y mostrar dicho contenido únicamente con el fin de operar y proporcionar el Servicio para usted.</p>
+    <p>Todo el contenido visual, iconos e imágenes proporcionados <em>por</em> la Aplicación son propiedad de VitrumStudios y están protegidos por las leyes de propiedad intelectual.</p>
+
+    <h3>6. Exclusión de Garantías y Limitación de Responsabilidad</h3>
+    <p>El Servicio se proporciona "TAL CUAL" y "SEGÚN DISPONIBILIDAD", sin garantías de ningún tipo, ya sean expresas o implícitas, incluidas, entre otras, las garantías de comerciabilidad o idoneidad para un propósito particular.</p>
+    <p>En la máxima medida permitida por la ley aplicable, VitrumStudios, sus directores, empleados y afiliados, <strong>no serán responsables de ningún daño directo, indirecto, incidental, especial, consecuente o punitivo</strong> que resulte de:</p>
+    <ul>
+        <li>(i) Su acceso o uso, o la imposibilidad de acceder o usar, el Servicio.</li>
+        <li>(ii) Cualquier pérdida de datos, interrupción del servicio o mal funcionamiento del software.</li>
+        <li>(iii) Cualquier costo de adquisición de bienes o servicios sustitutos.</li>
+        <li>(iv) Cualquier repercusión legal, académica o personal derivada del uso (o mal uso) del Software.</li>
+    </ul>
+    <p>Usted acepta utilizar la Aplicación bajo su propio riesgo y deslinda a VitrumStudios de cualquier responsabilidad por daños o consecuencias legales derivadas de dicho uso.</p>
+
+    <h3>7. Modificación de los Términos</h3>
+    <p>Nos reservamos el derecho de modificar estos Términos en cualquier momento. Le notificaremos sobre cualquier cambio publicando los nuevos Términos en esta página. Se considera que usted acepta los cambios si continúa utilizando la Aplicación después de que dichos cambios entren en vigor.</p>
+
+    <h3>8. Ley Aplicable</h3>
+    <p>Estos Términos se regirán e interpretarán de acuerdo con las leyes de Ecuador, sin tener en cuenta sus disposiciones sobre conflicto de leyes.</p>
+
+    <h3>9. Contacto</h3>
+    <p>Si tiene alguna pregunta sobre estos Términos, puede contactarnos a n7.elliewasteland@gmail.com</p>`,
+    privacyPolicy: `<h3>1. Información que Recopilamos</h3><p><strong>Última actualización:</strong> 25 de octubre de 2025</p>
+
+    <h3>1. Introducción</h3>
+    <p>Esta Política de Privacidad y Procesamiento de Datos describe cómo VitrumStudios ("nosotros", "nuestro") recopila, utiliza, almacena y protege su información personal cuando utiliza la aplicación VitrumSpaces ("el Servicio"). Su privacidad es fundamental para nosotros.</p>
+
+    <h3>2. Información que Recopilamos</h3>
+    <p>Recopilamos únicamente la información esencial para el funcionamiento del Servicio:</p>
+    <ul>
+        <li><strong>Información de Identificación:</strong> Su nombre y dirección de correo electrónico, proporcionados durante el registro.</li>
+        <li><strong>Información Académica Básica:</strong> Datos relacionados con su institución, carrera y horario, necesarios para las funciones de Smart Time y Fast Access.</li>
+    </ul>
+
+    <h3>3. Uso de su Información</h3>
+    <p>Utilizamos su información exclusivamente para:</p>
+    <ul>
+        <li>Proveer y mantener las funcionalidades del Servicio.</li>
+        <li>Personalizar su experiencia de usuario (Vitrum UI).</li>
+        <li>Sincronizar sus datos entre dispositivos (Cloud App & PWA).</li>
+        <li>Comunicarnos con usted sobre actualizaciones del Servicio (si es necesario).</li>
+    </ul>
+
+    <h3>4. Almacenamiento en Servidores de Terceros</h3>
+    <p>Para garantizar la disponibilidad y sincronización de sus datos (Cloud App & PWA), utilizamos servicios de infraestructura en la nube de terceros confiables, como Google Cloud Platform y/o Firebase ("Proveedores de Nube").</p>
+    
+    <p>Su información (nombre, correo, datos académicos) se almacena en los servidores seguros de estos Proveedores de Nube. Al utilizar estos servicios, <strong>sus datos quedan sujetos a las prácticas de seguridad, políticas de privacidad y jurisdicción legal de dichos terceros</strong> (por ejemplo, Google LLC).</p>
+    
+    <p>Aunque seleccionamos proveedores con altos estándares de seguridad, VitrumStudios <strong>no se responsabiliza por fallos de seguridad, brechas de datos, pérdida de información o cualquier acción u omisión por parte de estos Proveedores de Nube</strong>. Usted reconoce que el almacenamiento de datos a través de Internet nunca es 100% seguro.</p>
+
+    <h3>5. Divulgación de Información</h3>
+    <p>Nos comprometemos a proteger su privacidad. <strong>Bajo ninguna circunstancia venderemos, alquilaremos, arrendaremos o mostraremos su información personal identificable a terceros</strong> con fines de marketing o cualquier otro fin ajeno al funcionamiento directo del Servicio.</p>
+    <p>Solo podremos divulgar su información si así lo exige la ley o una orden judicial válida.</p>
+
+    <h3>6. Su Consentimiento</h3>
+    <p>Al utilizar la aplicación VitrumSpaces, usted <strong>acepta y consiente explícitamente</strong> la recopilación, el uso, el procesamiento y el almacenamiento de su información personal como se describe en esta Política, incluido el <strong>almacenamiento de sus datos en servidores de terceros</strong> (como Google) y la aceptación de los riesgos inherentes a ello.</p>
+
+    <h3>7. Seguridad de los Datos</h3>
+    <p>Implementamos medidas de seguridad técnicas y administrativas razonables para proteger su información. Sin embargo, ningún sistema es infalible. No podemos garantizar la seguridad absoluta de su información.</p>
+
+    <h3>8. Modificaciones a esta Política</h3>
+    <p>Nos reservamos el derecho de modificar esta Política de Privacidad en cualquier momento. Le notificaremos sobre cualquier cambio publicando la nueva política en esta página. Se considera que usted acepta los cambios si continúa utilizando el Servicio después de que dichos cambios entren en vigor.</p>
+    <h3>9. Contacto</h3>
+    <p>Si tiene alguna pregunta sobre esta Política de Privacidad, puede contactarnos a n7.elliewasteland@gmail.com</p>`
 };
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -384,7 +480,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 setTimeout(() => {
                     const finalJson = JSON.stringify(userData);
                     const base64String = btoa(unescape(encodeURIComponent(finalJson)));
-                    const targetUrl = `https://vitrumspace.netlify.app/?userData=${encodeURIComponent(base64String)}`;
+                    const targetUrl = `http://127.0.0.1:5500/index.html?userData=${encodeURIComponent(base64String)}`;
                     window.location.href = targetUrl;
                 }, 4000); // 4-second delay
 
